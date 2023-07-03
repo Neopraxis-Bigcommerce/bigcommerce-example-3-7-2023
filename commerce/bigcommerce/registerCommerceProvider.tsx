@@ -21,19 +21,19 @@ export const commerceProviderMeta: GlobalContextMeta<CommerceProviderProps> = {
   props: {
     accessToken: {
       type: "string",
-      defaultValue: "eons8ty1ru4f7zcw1ny9b6vce3bpao0"
+      defaultValue: "rxvy03kvd82x8r2cmci1zquoelofcx"
     },
     clientName: {
       type: "string",
-      defaultValue: "Plasmic Test"
+      defaultValue: "Plasmic"
     },
     clientId: {
       type: "string",
-      defaultValue: "ca7eeef8x6p75goyyd2ujbce29sq8an"
+      defaultValue: "sklxsuit3pijq1cgsacl1713aj9uzjv"
     },
     clientSecret: {
       type: "string",
-      defaultValue: "a2fb4256d8e111a8ab6b42b53bfb876a9fbf6672cd91a03bd137a5b7b4f9ad0c"
+      defaultValue: "1a8147648a436753d7ac19601e02410797048e897c00034fa9c7d3e939e0749d"
     },
     channelId: {
       type: "number",
@@ -41,11 +41,11 @@ export const commerceProviderMeta: GlobalContextMeta<CommerceProviderProps> = {
     },
     storeHash: {
       type: "string",
-      defaultValue: "upbtcjj27c"
+      defaultValue: "5o7xzmxoo0"
     },
     storeFrontApiToken: {
       type: "string",
-      defaultValue: "eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzI1NiJ9.eyJjaWQiOjEsImNvcnMiOlsiaHR0cDovL2xvY2FsaG9zdDozMDAwIl0sImVhdCI6MTY5Njc4NDcwOCwiaWF0IjoxNjg2MjMzMjExLCJpc3MiOiJCQyIsInNpZCI6MTAwMjk1MTI3Mywic3ViIjoiY2E3ZWVlZjh4NnA3NWdveXlkMnVqYmNlMjlzcThhbiIsInN1Yl90eXBlIjoyLCJ0b2tlbl90eXBlIjoxfQ.p9o7jtDdCDBhS-gazIG2_A2U_cTN2zvmaO7N1dmcbAOc1xYphnuLRjqkWz38q1gW3rcm5dZXPhiUpP7YBS05NA",
+      defaultValue: "eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzI1NiJ9.eyJjaWQiOjEsImNvcnMiOlsiaHR0cHM6Ly9uZXh0YmFzZS1zYW5kYm94LTMubXliaWdjb21tZXJjZS5jb20iLCJodHRwczovL2NvZGVnZW4ucGxhc21pYy5hcHAiXSwiZWF0IjoxNzg3NzYyOTIzLCJpYXQiOjE2ODc3NzI3OTAsImlzcyI6IkJDIiwic2lkIjoxMDAyOTA2MzY2LCJzdWIiOiJza2x4c3VpdDNwaWpxMWNnc2FjbDE3MTNhajl1emp2Iiwic3ViX3R5cGUiOjIsInRva2VuX3R5cGUiOjF9.LxSQZqRpIcBBjKZCe93qVyuVwZhPvvzX0LAsCLhg_kgKaw7kZO20dpifPyDlmg_Jf9ZXRCJ6Sur08CSq3OUV9Q",
     },
   },
   description: `Get your BigCommerce Credentials from the bigcommerce admin UI under Developer > Settings > API accounts`,
